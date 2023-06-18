@@ -25,7 +25,9 @@ What are you waiting for? Hit Download and open up YouTube App on your Windows p
 
 ## Installation
 
-You can install YouTube desktop on Windows by running the installer of latest [release](https://github.com/AppsForDesktop/YouTube-desktop/releases/download/1.0.0/YouTube.desktop.install.exe).
+To get YouTube desktop for Windows, you can [Download YouTube desktop installer](https://github.com/AppsForDesktop/YouTube-desktop/releases/download/1.0.0/YouTube.desktop.install.exe).
+
+Or you can check the [releases](https://github.com/AppsForDesktop/YouTube-desktop/releases) page.
 
 ## Usage
 
